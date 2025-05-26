@@ -1,7 +1,7 @@
 
-## CodingOIer 的社区国际象棋锦标赛
+## zjt20100220 的社区国际象棋锦标赛
 
-[**English Version**](#codingoiers-community-chess-championship)
+[**English Version**](#zjt20100220s-community-chess-championship)
 
 当前状态：[status]
 
@@ -15,7 +15,7 @@
 
 或者手动提交 Issue：
 
-> 在本 [repo](https://github.com/CodingOIer/CodingOIer) 的 [Issue](https://github.com/CodingOIer/CodingOIer/issues) 界面提交一个新的 Issue，标题如下：
+> 在本 [repo](https://github.com/zjt20100220/zjt20100220) 的 [Issue](https://github.com/zjt20100220/zjt20100220/issues) 界面提交一个新的 Issue，标题如下：
 >
 > - `!move|<需要移动的棋子位置>|<想要移动到的位置>` 来移动棋子，如 `!move|A2|A4`。
 >
@@ -23,7 +23,7 @@
 
 下棋逻辑实现比较简陋，部分特殊移动方式可能无法使用，**需要吃掉对方的王才算胜利**。
 
-可以查看 git log / [`documents/log.md`](https://github.com/CodingOIer/CodingOIer/blob/game/documents/log.md) 获取结果，或直接查看下面的棋盘。
+可以查看 git log / [`documents/log.md`](https://github.com/zjt20100220/zjt20100220/blob/game/documents/log.md) 获取结果，或直接查看下面的棋盘。
 
 如果遇到问题，请发送邮件到 `i@wanghongtian.com` 或提交 Issue，但是由于 Issue 可能堆积，有可能无法看到。
 
@@ -40,9 +40,9 @@
 | **2** | [a2]  | [b2]  | [c2]  | [d2]  | [e2]  | [f2]  | [g2]  | [h2]  |
 | **1** | [a1]  | [b1]  | [c1]  | [d1]  | [e1]  | [f1]  | [g1]  | [h1]  |
 
-## CodingOIer's Community Chess Championship
+## zjt20100220's Community Chess Championship
 
-[**中文版本**](#codingoier-的社区国际象棋锦标赛)
+[**中文版本**](#zjt20100220-的社区国际象棋锦标赛)
 
 Current status: [status-en]
 
@@ -56,7 +56,7 @@ How to participate:
 
 Or submit an issue manually:
 
-> Submit a new issue in the [Issue](https://github.com/CodingOIer/CodingOIer) interface of this [repo](https://github.com/CodingOIer/CodingOIer) in the title format:
+> Submit a new issue in the [Issue](https://github.com/zjt20100220/zjt20100220) interface of this [repo](https://github.com/zjt20100220/zjt20100220) in the title format:
 >
 > - `!move|<position of chess piece to be moved>|<position to be moved>` to move chess pieces, such as `!move|A2|A4`.
 >
@@ -64,7 +64,7 @@ Or submit an issue manually:
 
 The logic of chess is relatively simple, and some special moves may not be available. **You need to capture the opponent's king to win**.
 
-You can check git log / [`documents/log.md`](https://github.com/CodingOIer/CodingOIer/blob/game/documents/log.md) to get the results, or just look at the board below.
+You can check git log / [`documents/log.md`](https://github.com/zjt20100220/zjt20100220/blob/game/documents/log.md) to get the results, or just look at the board below.
 
 If you encounter any problems, please send an email to `i@wanghongtian.com` or submit an issue, but since issues may be piled up, they may not be visible.
 
